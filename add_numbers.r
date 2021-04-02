@@ -8,3 +8,8 @@ add_numbers <- function(x,y){
 
 # returns 3
 add_numbers(1,2)
+
+# Create a function that adds three numbers together 
+add_three_numbers <- function(x,y,z){
+  return(x + y + z)
+ }
